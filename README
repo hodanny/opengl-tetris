@@ -1,0 +1,18 @@
+README
+-------
+By: Dan Ho (301050375)
+Date: June 14 2012
+CMPT361: Assignment 1 (Tetris)
+Summer 2012
+
+Implementation:
+[x] Tile and grid rendering and tile downward movement
+[x] Tile stack-up
+[x] Key stroke interaction and tile movements
+[x] Key stroke interaction and tile movements
+[ ] Bonus text blending
+
+Compiling Info
+---------------
+Tested on Linux Machines in CSIL
+- run 'make' and './tetris' to run
